@@ -1,0 +1,18 @@
+.product {
+  padding: 10px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid rgb(98, 97, 97);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(181, 181, 181);
+  width: 200px;
+}
+
+.product-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,23 @@
+.checkout-cart-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 350px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px black;
+}
+
+.coupons-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+  gap: 5px;
+}
+
+.coupon {
+  display: flex;
+  justify-content: space-between;
+}

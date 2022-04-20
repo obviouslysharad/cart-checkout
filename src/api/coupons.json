@@ -1,0 +1,14 @@
+[
+  {
+    "promoCode": "RRD4D32",
+    "desc": "10% discount for oders above $5000",
+    "minVal": 5000,
+    "discountPercent": 10
+  },
+  {
+    "promoCode": "44F4T11",
+    "desc": "15% discount for oders above $10000",
+    "minVal": 10000,
+    "discountPercent": 15
+  }
+]

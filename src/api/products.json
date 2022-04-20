@@ -1,0 +1,13 @@
+[
+  {
+    "id": "mss",
+    "name": "Managed Security Services",
+    "pricePerMonth": "2549.99"
+  },
+  {
+    "id": "e&i",
+    "name": "Engineering & integration",
+    "pricePerMonth": "1025.50"
+  },
+  { "id": "training", "name": "Training", "pricePerMonth": "100" }
+]
